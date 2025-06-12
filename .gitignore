@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# 環境設定
+.env
+*.env
+*.json
+
+# その他
+.DS_Store
